@@ -1,0 +1,8 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'検索',
+	'DESCRIPTION'=>'キーワードで検索し、検索結果をタイトル一覧で表示します。'
+);
+
+?>

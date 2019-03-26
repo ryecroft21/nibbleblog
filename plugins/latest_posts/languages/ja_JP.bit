@@ -1,0 +1,9 @@
+<?php
+
+$_PLUGIN_CONFIG['LANG'] = array(
+	'NAME'=>'最近の投稿',
+	'DESCRIPTION'=>'最新の投稿を日付順に表示します。',
+	'AMOUNT'=>'Amount'
+);
+
+?>
